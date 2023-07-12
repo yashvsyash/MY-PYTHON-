@@ -1,0 +1,11 @@
+#PROGRAM TO TAKE INPUT OF MARKS
+NAME=input("Enter the name:")
+MARKS1=int(input("Enter the Number:"))
+MARKS2=int(input("Enter the Number:"))
+print("The Name is:",NAME)
+print("The marks in 1st subject is:",MARKS1)
+print("The marks in 2nd subject is:",MARKS2)
+print("The Sum of Marks is:",(MARKS1+MARKS2))
+print(type(MARKS1))
+print(type(MARKS2))
+print(type(NAME))
