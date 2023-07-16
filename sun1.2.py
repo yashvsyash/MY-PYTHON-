@@ -8,14 +8,14 @@ print()"""
 
 
 
-#
+#TO CONCATENATE TWO STRINGS
 """name="RAM"
 caste="RAGHUPATI"
 print(name+caste)"""
 
 
 
-#
+#TO CONCATENATE TWO STRINGS
 """name="RAM"
 age="3"
 print(name+age)
@@ -36,7 +36,7 @@ print(len(caste*3))
 print()
 print()"""
 
-#
+#TO FIND CHARACTERS IN THE GIVEN STRING
 """name="RAM"
 caste="RAGHUPATI"
 print("g" in caste)
@@ -46,7 +46,7 @@ print()
 print()"""
 
 
-#
+#TO FIND CHARACTERS IN THE GIVEN STRING USING IF-ELSE BLOCK
 """name="RAM"
 caste="RAGHUPATI"
 if "T" in caste:
@@ -68,7 +68,7 @@ else:
     print("BOTH ARE not SAME")"""
 
 
-#
+#TO VALIDATE TWO STRINGS
 """user_name="RAHUL"
 name=input("ENTER THE NAME")
 if (user_name==name):
