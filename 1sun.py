@@ -19,7 +19,7 @@ print(a[4])"""
 print(a[-3])
 print(a[-4])"""
 
-#
+#TO PRINT CHARACTERS USING INDEX
 a="HELLO_WORLD"
 print(a[0:11:5])
 print(a[::])
